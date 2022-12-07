@@ -7,7 +7,7 @@ To calculate a fibonacci number, we can use 2 methods: Iterative and Recursive.
 
 
 
-#
+
 ## 2 Methods:
 ### Fibonacci Series using Iterative Method
 
@@ -72,7 +72,6 @@ The fibonacci number F10 = 55 (iterative), 55 (recursive)
 ```
 
 
-#
 
 ## Benchmark; Time Complexity
 
@@ -100,7 +99,6 @@ Time elapsed: 0.000007 s
 
 ** These two results were obtained using the same N value (35).
 
-#
 
 ## Benchmark; Space Complexity
 
@@ -117,7 +115,7 @@ Results:
 
 
 ** These two results were obtained using the same N value (2000).
-#
+
 
 ## Conclusion
 
